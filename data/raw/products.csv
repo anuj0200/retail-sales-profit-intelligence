@@ -1,0 +1,101 @@
+product_id,product_name,category,sub_category,cost_price
+501,Laptop Pro 14,Technology,Computers,55000
+502,Laptop Air 13,Technology,Computers,45000
+503,Laptop Business 15,Technology,Computers,48000
+504,Laptop Creator 16,Technology,Computers,65000
+505,Laptop Gaming 15,Technology,Computers,70000
+506,Laptop Student 14,Technology,Computers,38000
+507,Desktop Business PC,Technology,Computers,40000
+508,Desktop Pro PC,Technology,Computers,60000
+509,Desktop Compact PC,Technology,Computers,35000
+510,Workstation Pro,Technology,Computers,85000
+511,24-inch Monitor,Technology,Computers,12000
+512,27-inch Monitor,Technology,Computers,18000
+513,32-inch Monitor,Technology,Computers,28000
+514,UltraWide Monitor,Technology,Computers,32000
+515,4K Professional Monitor,Technology,Computers,40000
+516,Wireless Mouse,Technology,Accessories,700
+517,Ergonomic Wireless Mouse,Technology,Accessories,1200
+518,Mechanical Keyboard,Technology,Accessories,2500
+519,USB Keyboard,Technology,Accessories,1200
+520,Wireless Keyboard,Technology,Accessories,1800
+521,Wireless Headphones,Technology,Accessories,3500
+522,Noise Cancelling Headphones,Technology,Accessories,6500
+523,Webcam HD,Technology,Accessories,2200
+524,Webcam Full HD,Technology,Accessories,3500
+525,USB-C Hub,Technology,Accessories,1800
+526,USB-C Docking Station,Technology,Accessories,5500
+527,External SSD 1TB,Technology,Accessories,6500
+528,External SSD 2TB,Technology,Accessories,11000
+529,Laptop Stand,Technology,Accessories,1800
+530,Premium Laptop Stand,Technology,Accessories,3000
+531,Inkjet Printer,Technology,Printers,8000
+532,Laser Printer,Technology,Printers,15000
+533,Office Laser Printer,Technology,Printers,25000
+534,Color Laser Printer,Technology,Printers,30000
+535,Document Scanner,Technology,Printers,12000
+536,High Speed Scanner,Technology,Printers,22000
+537,All-in-One Printer,Technology,Printers,18000
+538,Business Multifunction Printer,Technology,Printers,35000
+539,Ergonomic Office Chair,Furniture,Chairs,8000
+540,Executive Office Chair,Furniture,Chairs,15000
+541,Visitor Chair,Furniture,Chairs,3500
+542,Mesh Office Chair,Furniture,Chairs,6500
+543,High Back Office Chair,Furniture,Chairs,9500
+544,Leather Executive Chair,Furniture,Chairs,18000
+545,Adjustable Task Chair,Furniture,Chairs,7500
+546,Conference Chair,Furniture,Chairs,5000
+547,Study Table,Furniture,Tables,5000
+548,Office Desk,Furniture,Tables,10000
+549,Executive Desk,Furniture,Tables,18000
+550,Computer Table,Furniture,Tables,7500
+551,Compact Office Desk,Furniture,Tables,8500
+552,L-Shaped Office Desk,Furniture,Tables,16000
+553,Conference Table,Furniture,Tables,25000
+554,Standing Desk,Furniture,Tables,22000
+555,Bookshelf,Furniture,Storage,6000
+556,Filing Cabinet,Furniture,Storage,9000
+557,Office Storage Cabinet,Furniture,Storage,12000
+558,Document Rack,Furniture,Storage,2500
+559,Wooden Filing Cabinet,Furniture,Storage,11000
+560,Metal Storage Cabinet,Furniture,Storage,14000
+561,Mobile Pedestal,Furniture,Storage,7000
+562,Office Bookshelf Pro,Furniture,Storage,9500
+563,A4 Paper Pack,Office Supplies,Paper,250
+564,Premium Paper Pack,Office Supplies,Paper,450
+565,Sticky Notes Pack,Office Supplies,Paper,150
+566,Notebook Pack,Office Supplies,Paper,300
+567,Premium Notebook,Office Supplies,Paper,500
+568,A3 Paper Pack,Office Supplies,Paper,400
+569,Colored Paper Pack,Office Supplies,Paper,350
+570,Printing Paper Box,Office Supplies,Paper,2200
+571,Ball Pen Pack,Office Supplies,Writing,120
+572,Gel Pen Pack,Office Supplies,Writing,180
+573,Marker Set,Office Supplies,Writing,250
+574,Highlighter Set,Office Supplies,Writing,220
+575,Premium Ball Pen Set,Office Supplies,Writing,350
+576,Permanent Marker Pack,Office Supplies,Writing,300
+577,Whiteboard Marker Set,Office Supplies,Writing,280
+578,Professional Writing Kit,Office Supplies,Writing,600
+579,File Folder Pack,Office Supplies,Storage,300
+580,Document Folder,Office Supplies,Storage,180
+581,Desk Organizer,Office Supplies,Storage,500
+582,Archive Box,Office Supplies,Storage,400
+583,Premium File Organizer,Office Supplies,Storage,750
+584,Document Storage Box,Office Supplies,Storage,600
+585,Expandable File Folder,Office Supplies,Storage,450
+586,Desktop File Holder,Office Supplies,Storage,550
+587,Calculator,Office Supplies,Desk Accessories,500
+588,Scientific Calculator,Office Supplies,Desk Accessories,900
+589,Desk Calendar,Office Supplies,Desk Accessories,250
+590,Desk Stapler,Office Supplies,Desk Accessories,180
+591,Heavy Duty Stapler,Office Supplies,Desk Accessories,450
+592,Paper Punch,Office Supplies,Desk Accessories,220
+593,Desk Tape Dispenser,Office Supplies,Desk Accessories,150
+594,Letter Tray,Office Supplies,Desk Accessories,350
+595,Laptop Privacy Screen,Technology,Accessories,2500
+596,Bluetooth Speaker,Technology,Accessories,2800
+597,Portable SSD 500GB,Technology,Accessories,4000
+598,Printer Stand,Furniture,Storage,3000
+599,Cable Management Box,Office Supplies,Desk Accessories,450
+600,Desktop Whiteboard,Office Supplies,Desk Accessories,700
